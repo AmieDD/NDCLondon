@@ -17,4 +17,4 @@ Using modern .NET technologies and Unity 3D engine to connect and control hardwa
   * [Arduino IDE](https://www.arduino.cc/en/Main/Software) 
   
 * Schematics and PCB design software
- * [Fritzing](http://fritzing.org/home/)
+  * [Fritzing](http://fritzing.org/home/)
