@@ -6,6 +6,9 @@ Developing software in Unity 3D engine to communicate with hardware devices outs
 
 Using modern .NET technologies and Unity 3D engine to connect and control hardware devices.
 
+**Slides** 
+Located in Google Drive folder [here](https://drive.google.com/file/d/1r6wAUwpG56R9p51Oc9Gz1_0uIcFGRr6R/view?usp=sharing)
+
 **Ingredients:**
 
 * Hardware:
@@ -18,3 +21,7 @@ Using modern .NET technologies and Unity 3D engine to connect and control hardwa
   
 * Schematics and PCB design software
   * [Fritzing](http://fritzing.org/home/)
+
+*Questions?*
+Email: amie@amiedd.com
+Twitter: [@amiedoubled](https://twitter.com/amiedoubled)
