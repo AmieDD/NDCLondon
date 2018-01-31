@@ -27,4 +27,4 @@ Email: amie@amiedd.com
 Twitter: [@amiedoubled](https://twitter.com/amiedoubled)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kdCpJ8jE710?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[Youtube Video LEGO Cannon demo at NDC Londno](https://youtu.be/kdCpJ8jE710)
